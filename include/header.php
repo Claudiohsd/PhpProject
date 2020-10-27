@@ -8,13 +8,7 @@
 <body>
 
 <header id="topHeader">
-            <!--alert Stay home Covid19-->
-            <div class="alert alert-warning alert-dismissible fade show" role="alert">
-                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                    <span aria-hidden="true">×</span>
-                </button>
-                <strong>#stayhome:</strong> Stay home and help fighting the Covid19.
-            </div>
+          
             <!-- navigation bar -->
 
             <h3>
@@ -36,15 +30,7 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="work.html">Work</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="projects.html">Projects</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="travel.html">Travels</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="contact.html">Contact</a>
-                            </li>
+
                         </ul>
                     </div>
 
