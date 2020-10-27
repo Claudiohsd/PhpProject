@@ -1,0 +1,97 @@
+/* author: Claudio Dionisio The this webpage was created with most of the code being mine,
+but also using templates that have been sourced from https: //www.w3schools.com/ 
+also with some sample codes from https: //getbootstrap.com/ */
+
+body {
+    background-color: #EFE9E7;
+    color: #393D3F;
+}
+
+.navbar {
+    padding-left: 10px;
+}
+
+.card-body {
+    background-color: #EFE9E7;
+    color: #393D3F;
+}
+
+#blockquote {
+    color: #393D3F;
+    background-color: #abfaa9;
+}
+
+#logo {
+    height: 100px;
+    width: auto;
+}
+
+header {
+    position: relative;
+    width: 100%;
+}
+
+h4,
+h5,
+h6 {
+    color: #3C1642;
+}
+
+h2 {
+    color: #4ecdc4;
+}
+
+#projectImg {
+    height: 200px;
+    width: auto;
+}
+
+#logoLang {
+    height: 50px;
+    width: auto;
+}
+
+#htmlLogo {
+    height: 100px;
+    width: auto;
+}
+
+#javaLogo {
+    height: 90px;
+    width: auto;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #393D3F;
+    text-align: center;
+}
+
+#cardT {
+    width: 60%;
+    padding-right: middle;
+    height: 600;
+}
+
+#imgC {
+    padding-bottom: 8px;
+    width: 100%;
+    height: 285px;
+}
+
+#videoC {
+    padding-bottom: 0px;
+    width: 100%;
+    height: 280px;
+}
+
+#imgT {
+    height: 200;
+    width: 100%;
+}
+
+#link {
+    color: #4ecdc4;
+}
