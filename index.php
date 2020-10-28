@@ -17,7 +17,7 @@
 <!-- this is the beginning of the body content -->
 
 <br>
-        <hr><br>s
+        <hr><br>
         <div class="card mb-" id="cardTop"></div>
         <div class="row no-gutters">
             <div class="col-md-4">
