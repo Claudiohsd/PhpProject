@@ -10,14 +10,40 @@
     <link rel="stylesheet" href="css/styles.css ">
 </head>
 <body>
+<div class="container">
+
 <?php include 'include/header.php';?>
 
-<p>Home</p>
-<?php
+<!-- this is the beginning of the body content -->
 
+<br>
+        <hr><br>s
+        <div class="card mb-" id="cardTop"></div>
+        <div class="row no-gutters">
+            <div class="col-md-4">
+                <!-- image in the card -->
+
+                <img src="img/profile.jpg" class="card-img" alt="...">
+            </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Claudio Dionisio</h5>
+
+                            <p id=" topCardTitle"> STUDENT NUMBER: 2019235
+                                <br>COURSE: Web Development 
+                                <br>TEACHER: John Snel
+                                <br>PROJECT TITLE:	PHP Project 1
+                            </p>
+
+                </div>
+            </div>
+        </div>
+<?php
 
 include 'include/footer.php';
 ?>
+
+</div>
 </body>
 </html>
 

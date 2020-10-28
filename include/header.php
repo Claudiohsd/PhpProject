@@ -20,7 +20,7 @@
                                 <a class="nav-link" href="countries.php">Countries <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="forms.php">Forms<span class="sr-only">(current)</span></a>
+                                <a class="nav-link" href="capital.php">Capital<span class="sr-only">(current)</span></a>
                             </li>
 
                         </ul>

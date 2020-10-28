@@ -16,10 +16,6 @@ body {
     color: #393D3F;
 }
 
-#blockquote {
-    color: #393D3F;
-    background-color: #abfaa9;
-}
 
 #logo {
     height: 100px;
@@ -46,21 +42,6 @@ h2 {
     width: auto;
 }
 
-#logoLang {
-    height: 50px;
-    width: auto;
-}
-
-#htmlLogo {
-    height: 100px;
-    width: auto;
-}
-
-#javaLogo {
-    height: 90px;
-    width: auto;
-}
-
 .footer {
     position: fixed;
     bottom: 0;
@@ -80,18 +61,11 @@ h2 {
     width: 100%;
     height: 285px;
 }
-
-#videoC {
-    padding-bottom: 0px;
-    width: 100%;
-    height: 280px;
+table, th, td {
+    border: 1px solid black;
 }
 
-#imgT {
-    height: 200;
+table {
+    table-layout: auto;
     width: 100%;
-}
-
-#link {
-    color: #4ecdc4;
 }
