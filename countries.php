@@ -28,7 +28,7 @@
 
         foreach($country as $x => $capital) {
         
-            echo "<tr><td>" . $country . "</td><td> ". $capital ." </td></tr>";
+            echo "<tr><td>" . $x . "</td><td> ". $capital ." </td></tr>";
         }
 ?>
         </table>
