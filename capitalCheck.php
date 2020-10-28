@@ -23,7 +23,7 @@
         $userImput = ucfirst(strtolower($_GET["country"]));
 
         include 'include/array.php';
-        
+
             foreach($country as $x => $capital) {
                 if($x === $userImput){
 
@@ -38,7 +38,9 @@
                 echo "The country ".$userImput." is not a valid country ";}
      
         ?> <br><br></h4>
+        <p>Check for spelling errors or try another country!</p>
         <a href="capital.php" ><button type="submit" class="btn btn-primary">Try again</button></a>
+        
         <?php
 
 
