@@ -1,3 +1,4 @@
+<!-- header with the menu bar to be used in all pages -->
 
 <header id="topHeader">
           

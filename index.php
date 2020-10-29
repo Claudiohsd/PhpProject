@@ -11,10 +11,10 @@
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="css/styles.css ">
 </head>
-
+<!-- this is the beginning of the body content -->
 <body>
     <div class="container">
-
+        <!-- include file with the menu bar-->
         <?php include 'include/header.php';?>
 
         <!-- this is the beginning of the body content -->
@@ -29,9 +29,9 @@
                 <img src="img/profile.jpg" class="card-img" alt="...">
             </div>
             <div class="col-md-8">
+                <!-- card with student identification-->
                 <div class="card-body">
                     <h5 class="card-title">Claudio Dionisio</h5>
-
                     <p id=" topCardTitle"> STUDENT NUMBER: 2019235
                         <br>COURSE: Web Development
                         <br>TEACHER: John Snel
@@ -41,10 +41,11 @@
                 </div>
             </div>
         </div>
+        <!-- include file with the footer-->
         <?php
 
-include 'include/footer.php';
-?>
+        include 'include/footer.php';
+        ?>
 
     </div>
 </body>

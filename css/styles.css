@@ -61,11 +61,3 @@ h2 {
     width: 100%;
     height: 285px;
 }
-.table, th, td {
-    border: 1px solid black;
-}
-
-.table {
-    table-layout: auto;
-    width: 100%;
-}
